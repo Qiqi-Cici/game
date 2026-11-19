@@ -31,7 +31,6 @@
 | 场景规模 | 20 × 20 街区，约 1.1 公里 × 1.1 公里，六大分区与三处地标 |
 | 视觉表现 | PBR 材质、三时段 HDR 天空、动态天气、泛光与自适应画质 |
 | 交互方式 | 键盘、手柄；支持任务、车库、拍照与电台系统 |
-| 发布形态 | GitHub Pages 静态站点 + 单文件离线版 |
 
 ---
 
@@ -118,7 +117,6 @@
 - **资源**：车辆与行人模型采用 Meshopt 压缩，纹理按使用场景分级处理。
 - **逻辑**：车辆物理、信号控制、交通流、行人行为、规则判定与任务系统相互独立，便于维护。
 - **存档**：基于浏览器 `localStorage`，按访问地址隔离。
-- **发布**：GitHub Pages 静态托管；Web 加速版将入口代码内联、素材分离并行加载，离线版将全部资源编码进单个 HTML 文件。
 
 ---
 
@@ -135,20 +133,18 @@
 
 ---
 
-## 素材来源与许可
+## 素材来源
 
-| 素材类别 | 来源 | 许可 |
-| --- | --- | --- |
-| 法拉利 458 Italia | three.js 示例模型 | 随 three.js 仓库分发 |
-| 兰博基尼 Aventador | tf3dm / 社区优化版本 | 演示用途，许可未明确 |
-| 兰博基尼 Urus | Steven Grey，Sketchfab | CC BY-NC 4.0 |
-| 小米 SU7 Max | Ddiaz Design，Sketchfab | CC BY-NC-SA 4.0 |
-| 特斯拉 Model 3 | RBLXSupercars，Sketchfab | CC BY 4.0 |
-| 普通交通车辆 | comrade1280，Objaverse 1.0 | CC BY 4.0 |
-| 行人角色与动画 | Microsoft Rocketbox Avatar Library | MIT |
-| HDR 天空、地面与墙面贴图 | Poly Haven | CC0 |
-
-**使用限制**：Urus 与 SU7 模型采用非商业许可，Aventador 与法拉利模型许可未明确；车辆品牌名称与标识归各自厂商所有。因此本项目仅适用于个人学习与非商业展示。如需商业发布或带广告运营，请先替换为具备相应授权的模型资源。
+| 素材类别 | 来源 |
+| --- | --- |
+| 法拉利 458 Italia | three.js 示例模型 |
+| 兰博基尼 Aventador | tf3dm / 社区优化版本 |
+| 兰博基尼 Urus | Steven Grey，Sketchfab |
+| 小米 SU7 Max | Ddiaz Design，Sketchfab |
+| 特斯拉 Model 3 | RBLXSupercars，Sketchfab |
+| 普通交通车辆 | comrade1280，Objaverse 1.0 |
+| 行人角色与动画 | Microsoft Rocketbox Avatar Library |
+| HDR 天空、地面与墙面贴图 | Poly Haven |
 
 ---
 
