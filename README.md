@@ -8,7 +8,7 @@
 
 ## 在线体验
 
-**推荐入口（网络加速版）**
+
 
 <https://qiqi-cici.github.io/game/>
 
