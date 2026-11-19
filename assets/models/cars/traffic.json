@@ -1,0 +1,260 @@
+{
+  "gen-sedan": {
+    "id": "gen-sedan",
+    "name": "轿车",
+    "generic": true,
+    "tint": true,
+    "length": 4.359,
+    "width": 1.942,
+    "height": 1.342,
+    "wheelRadius": 0.304,
+    "wheelBase": 2.608,
+    "wheels": {
+      "fl": [
+        0.699,
+        0.306,
+        1.301
+      ],
+      "fr": [
+        -0.698,
+        0.304,
+        1.314
+      ],
+      "rl": [
+        0.699,
+        0.304,
+        -1.307
+      ],
+      "rr": [
+        -0.695,
+        0.304,
+        -1.308
+      ]
+    },
+    "front": 2.167,
+    "rear": -2.192,
+    "lodTriangles": 4754,
+    "lodWheelTriangles": 592,
+    "lod": "gen-sedan.lod.glb",
+    "credit": {
+      "author": "comrade1280",
+      "source": "Sketchfab「Generic passenger car pack」（经 Objaverse 1.0）",
+      "license": "CC BY 4.0"
+    }
+  },
+  "gen-compact": {
+    "id": "gen-compact",
+    "name": "小型车",
+    "generic": true,
+    "tint": true,
+    "length": 3.257,
+    "width": 1.607,
+    "height": 1.315,
+    "wheelRadius": 0.243,
+    "wheelBase": 2.083,
+    "wheels": {
+      "fl": [
+        0.574,
+        0.243,
+        1.041
+      ],
+      "fr": [
+        -0.572,
+        0.243,
+        1.042
+      ],
+      "rl": [
+        0.571,
+        0.243,
+        -1.042
+      ],
+      "rr": [
+        -0.574,
+        0.243,
+        -1.041
+      ]
+    },
+    "front": 1.698,
+    "rear": -1.559,
+    "lodTriangles": 5101,
+    "lodWheelTriangles": 539,
+    "lod": "gen-compact.lod.glb",
+    "credit": {
+      "author": "comrade1280",
+      "source": "Sketchfab「Generic passenger car pack」（经 Objaverse 1.0）",
+      "license": "CC BY 4.0"
+    }
+  },
+  "gen-hatchback": {
+    "id": "gen-hatchback",
+    "name": "掀背车",
+    "generic": true,
+    "tint": true,
+    "length": 3.956,
+    "width": 1.742,
+    "height": 1.352,
+    "wheelRadius": 0.3,
+    "wheelBase": 2.403,
+    "wheels": {
+      "fl": [
+        0.703,
+        0.3,
+        1.194
+      ],
+      "fr": [
+        -0.687,
+        0.3,
+        1.209
+      ],
+      "rl": [
+        0.677,
+        0.3,
+        -1.209
+      ],
+      "rr": [
+        -0.713,
+        0.3,
+        -1.194
+      ]
+    },
+    "front": 2.017,
+    "rear": -1.939,
+    "lodTriangles": 4540,
+    "lodWheelTriangles": 567,
+    "lod": "gen-hatchback.lod.glb",
+    "credit": {
+      "author": "comrade1280",
+      "source": "Sketchfab「Generic passenger car pack」（经 Objaverse 1.0）",
+      "license": "CC BY 4.0"
+    }
+  },
+  "gen-coupe": {
+    "id": "gen-coupe",
+    "name": "双门轿跑",
+    "generic": true,
+    "tint": true,
+    "length": 4.239,
+    "width": 1.884,
+    "height": 1.278,
+    "wheelRadius": 0.3,
+    "wheelBase": 2.413,
+    "wheels": {
+      "fl": [
+        0.663,
+        0.3,
+        1.206
+      ],
+      "fr": [
+        -0.663,
+        0.3,
+        1.207
+      ],
+      "rl": [
+        0.662,
+        0.3,
+        -1.207
+      ],
+      "rr": [
+        -0.663,
+        0.3,
+        -1.206
+      ]
+    },
+    "front": 2.136,
+    "rear": -2.104,
+    "lodTriangles": 4082,
+    "lodWheelTriangles": 485,
+    "lod": "gen-coupe.lod.glb",
+    "credit": {
+      "author": "comrade1280",
+      "source": "Sketchfab「Generic passenger car pack」（经 Objaverse 1.0）",
+      "license": "CC BY 4.0"
+    }
+  },
+  "gen-wagon": {
+    "id": "gen-wagon",
+    "name": "旅行车",
+    "generic": true,
+    "tint": true,
+    "length": 4.383,
+    "width": 1.95,
+    "height": 1.38,
+    "wheelRadius": 0.304,
+    "wheelBase": 2.634,
+    "wheels": {
+      "fl": [
+        0.7,
+        0.304,
+        1.317
+      ],
+      "fr": [
+        -0.7,
+        0.304,
+        1.317
+      ],
+      "rl": [
+        0.7,
+        0.304,
+        -1.317
+      ],
+      "rr": [
+        -0.7,
+        0.304,
+        -1.317
+      ]
+    },
+    "front": 2.173,
+    "rear": -2.21,
+    "lodTriangles": 4614,
+    "lodWheelTriangles": 592,
+    "lod": "gen-wagon.lod.glb",
+    "credit": {
+      "author": "comrade1280",
+      "source": "Sketchfab「Generic passenger car pack」（经 Objaverse 1.0）",
+      "license": "CC BY 4.0"
+    }
+  },
+  "gen-suv": {
+    "id": "gen-suv",
+    "name": "大型 SUV",
+    "generic": true,
+    "tint": false,
+    "length": 4.611,
+    "width": 2.068,
+    "height": 1.733,
+    "wheelRadius": 0.376,
+    "wheelBase": 2.731,
+    "wheels": {
+      "fl": [
+        0.729,
+        0.376,
+        1.365
+      ],
+      "fr": [
+        -0.73,
+        0.376,
+        1.365
+      ],
+      "rl": [
+        0.73,
+        0.376,
+        -1.365
+      ],
+      "rr": [
+        -0.729,
+        0.376,
+        -1.365
+      ]
+    },
+    "front": 2.239,
+    "rear": -2.372,
+    "lodTriangles": 5759,
+    "lodWheelTriangles": 548,
+    "lod": "gen-suv.lod.glb",
+    "credit": {
+      "author": "comrade1280",
+      "source": "Sketchfab「Generic passenger car pack」（经 Objaverse 1.0）",
+      "license": "CC BY 4.0"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Male_Adult_01",
+    "file": "Male_Adult_01.glb",
+    "female": false,
+    "triangles": 3639
+  },
+  {
+    "id": "Male_Adult_06",
+    "file": "Male_Adult_06.glb",
+    "female": false,
+    "triangles": 3776
+  },
+  {
+    "id": "Male_Adult_08",
+    "file": "Male_Adult_08.glb",
+    "female": false,
+    "triangles": 3719
+  }
+]

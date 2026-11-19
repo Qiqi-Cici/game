@@ -1,0 +1,339 @@
+{
+  "ferrari-458": {
+    "id": "ferrari-458",
+    "name": "458 Italia",
+    "brand": "Ferrari",
+    "length": 4.527,
+    "width": 2.254,
+    "height": 1.234,
+    "wheelRadius": 0.358,
+    "wheelBase": 2.646,
+    "trackFront": 1.669,
+    "trackRear": 1.643,
+    "wheels": {
+      "fl": [
+        0.839,
+        0.358,
+        1.324
+      ],
+      "fr": [
+        -0.83,
+        0.36,
+        1.323
+      ],
+      "rl": [
+        0.817,
+        0.358,
+        -1.323
+      ],
+      "rr": [
+        -0.826,
+        0.358,
+        -1.324
+      ]
+    },
+    "front": 2.434,
+    "rear": -2.093,
+    "paint": [
+      0.608,
+      0.02,
+      0.027
+    ],
+    "credit": {
+      "author": "vicent091036",
+      "source": "three.js 示例模型 ferrari.glb（原 Sketchfab 页面已下线）",
+      "license": "未注明，three.js 仓库随 MIT 分发"
+    },
+    "lodTriangles": 11046,
+    "lodWheelTriangles": 3696,
+    "triangles": 175284,
+    "file": "ferrari-458.glb",
+    "lod": "ferrari-458.lod.glb",
+    "roles": [
+      "interior_red",
+      "tail",
+      "plastic",
+      "metal",
+      "head",
+      "blinker",
+      "interior_leather",
+      "dark",
+      "rubber",
+      "glass",
+      "chrome",
+      "interior_carpet",
+      "interior_carbon",
+      "dark2",
+      "paint",
+      "badge",
+      "rim",
+      "tyre",
+      "caliper",
+      "interior_led"
+    ]
+  },
+  "lamborghini-aventador": {
+    "id": "lamborghini-aventador",
+    "name": "Aventador LP 700-4",
+    "brand": "Lamborghini",
+    "length": 4.78,
+    "width": 2.273,
+    "height": 1.168,
+    "wheelRadius": 0.346,
+    "wheelBase": 2.712,
+    "trackFront": 1.764,
+    "trackRear": 1.707,
+    "wheels": {
+      "fl": [
+        0.882,
+        0.346,
+        1.356
+      ],
+      "fr": [
+        -0.882,
+        0.346,
+        1.356
+      ],
+      "rl": [
+        0.853,
+        0.346,
+        -1.356
+      ],
+      "rr": [
+        -0.853,
+        0.346,
+        -1.356
+      ]
+    },
+    "front": 2.484,
+    "rear": -2.296,
+    "paint": [
+      0.92,
+      0.42,
+      0.02
+    ],
+    "credit": {
+      "author": "tf3dm.com 模型，moizahmad418 优化",
+      "source": "github.com/moizahmad418/aventador-3d-configurator",
+      "license": "演示用途，未注明许可"
+    },
+    "lodTriangles": 7667,
+    "lodWheelTriangles": 2228,
+    "triangles": 127770,
+    "file": "lamborghini-aventador.glb",
+    "lod": "lamborghini-aventador.lod.glb",
+    "roles": [
+      "paint",
+      "plastic",
+      "blinker",
+      "interior",
+      "gloss",
+      "gloss2",
+      "metal",
+      "head",
+      "chrome",
+      "cover",
+      "mirror",
+      "glass",
+      "tail",
+      "caliper",
+      "rim",
+      "tyre"
+    ]
+  },
+  "lamborghini-urus": {
+    "id": "lamborghini-urus",
+    "name": "Urus",
+    "brand": "Lamborghini",
+    "length": 5.112,
+    "width": 2.259,
+    "height": 1.623,
+    "wheelRadius": 0.402,
+    "wheelBase": 3.015,
+    "trackFront": 1.728,
+    "trackRear": 1.722,
+    "wheels": {
+      "fl": [
+        0.864,
+        0.402,
+        1.507
+      ],
+      "fr": [
+        -0.864,
+        0.402,
+        1.507
+      ],
+      "rl": [
+        0.861,
+        0.402,
+        -1.507
+      ],
+      "rr": [
+        -0.861,
+        0.402,
+        -1.507
+      ]
+    },
+    "front": 2.579,
+    "rear": -2.533,
+    "paint": [
+      0.93,
+      0.76,
+      0.05
+    ],
+    "credit": {
+      "author": "Steven Grey",
+      "source": "sketchfab.com/3d-models/lamborghini-urus-2650599973b649ddb4460ff6c03e4aa2",
+      "license": "CC-BY-NC-4.0"
+    },
+    "lodTriangles": 6795,
+    "lodWheelTriangles": 3647,
+    "triangles": 114541,
+    "file": "lamborghini-urus.glb",
+    "lod": "lamborghini-urus.lod.glb",
+    "roles": [
+      "tyre",
+      "rim2",
+      "rim",
+      "paint",
+      "caliper",
+      "plastic2",
+      "plastic",
+      "gloss",
+      "tail",
+      "blinker",
+      "head",
+      "mirror",
+      "cover",
+      "glass"
+    ]
+  },
+  "xiaomi-su7": {
+    "id": "xiaomi-su7",
+    "name": "SU7 Max",
+    "brand": "Xiaomi",
+    "length": 4.997,
+    "width": 2.24,
+    "height": 1.457,
+    "wheelRadius": 0.365,
+    "wheelBase": 2.997,
+    "trackFront": 1.669,
+    "trackRear": 1.669,
+    "wheels": {
+      "fl": [
+        0.835,
+        0.365,
+        1.499
+      ],
+      "fr": [
+        -0.834,
+        0.365,
+        1.499
+      ],
+      "rl": [
+        0.835,
+        0.365,
+        -1.499
+      ],
+      "rr": [
+        -0.835,
+        0.365,
+        -1.499
+      ]
+    },
+    "front": 2.482,
+    "rear": -2.515,
+    "paint": [
+      0,
+      0.406,
+      0.598
+    ],
+    "credit": {
+      "author": "Ddiaz Design",
+      "source": "sketchfab.com/3d-models/2024-xiaomi-su7-max-db30dd1e254243b4ba002c6ce65df052",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    "lodTriangles": 6972,
+    "lodWheelTriangles": 583,
+    "triangles": 84551,
+    "file": "xiaomi-su7.glb",
+    "lod": "xiaomi-su7.lod.glb",
+    "roles": [
+      "tyre",
+      "rim",
+      "caliper",
+      "paint",
+      "gloss",
+      "glass",
+      "head",
+      "cover",
+      "interior",
+      "tail"
+    ]
+  },
+  "tesla-model3": {
+    "id": "tesla-model3",
+    "name": "Model 3",
+    "brand": "Tesla",
+    "length": 4.72,
+    "width": 2.088,
+    "height": 1.411,
+    "wheelRadius": 0.345,
+    "wheelBase": 2.873,
+    "trackFront": 1.623,
+    "trackRear": 1.638,
+    "wheels": {
+      "fl": [
+        0.811,
+        0.345,
+        1.437
+      ],
+      "fr": [
+        -0.812,
+        0.345,
+        1.437
+      ],
+      "rl": [
+        0.82,
+        0.345,
+        -1.437
+      ],
+      "rr": [
+        -0.819,
+        0.345,
+        -1.437
+      ]
+    },
+    "front": 2.315,
+    "rear": -2.405,
+    "paint": [
+      0.75,
+      0.76,
+      0.78
+    ],
+    "credit": {
+      "author": "RBLXSupercars（brandonleong28 分享，e96031413 整理分件）",
+      "source": "sketchfab.com/3d-models/2024-tesla-model-3-fd22be415215453693d67e33aa7812d0",
+      "license": "CC-BY-4.0"
+    },
+    "lodTriangles": 9164,
+    "lodWheelTriangles": 421,
+    "triangles": 120906,
+    "file": "tesla-model3.glb",
+    "lod": "tesla-model3.lod.glb",
+    "roles": [
+      "glass",
+      "interior",
+      "cover",
+      "paint",
+      "chrome",
+      "plastic",
+      "rim2",
+      "rim",
+      "tail",
+      "blinker",
+      "head",
+      "tyre"
+    ]
+  }
+}
